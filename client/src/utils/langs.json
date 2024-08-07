@@ -175,13 +175,6 @@
     ".cmake",
     ".cmake.in"
   ],
-  "COBOL": [
-    ".cob",
-    ".cbl",
-    ".ccp",
-    ".cobol",
-    ".cpy"
-  ],
   "CSS": [
     ".css"
   ],

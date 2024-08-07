@@ -840,19 +840,6 @@ CMake:
   codemirror_mode: cmake
   codemirror_mime_type: text/x-cmake
   language_id: 47
-COBOL:
-  type: programming
-  extensions:
-  - ".cob"
-  - ".cbl"
-  - ".ccp"
-  - ".cobol"
-  - ".cpy"
-  tm_scope: source.cobol
-  ace_mode: cobol
-  codemirror_mode: cobol
-  codemirror_mime_type: text/x-cobol
-  language_id: 48
 CODEOWNERS:
   type: data
   filenames:
